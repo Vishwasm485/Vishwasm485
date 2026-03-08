@@ -27,7 +27,7 @@ LinkedIn: http://www.linkedin.com/in/vishwas-m-31685a308
 ---
 🛠 Languages and Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,django,flask,fastapi,flutter,mysql,postgres,mongodb,git,github,docker,aws,firebase,vercel,netlify,postman,arduino&perline=10" />
+<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,angularjs,AI/ML,msoffice,powerbi,react,nodejs,express,django,flask,fastapi,flutter,mysql,postgres,mongodb,git,github,docker,aws,firebase,vercel,netlify,postman,arduino&perline=10" />
 </p>
 
 ---
