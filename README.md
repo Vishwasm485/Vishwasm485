@@ -1,37 +1,38 @@
-Hi 👋 I'm Vishwas M
+# Hi 👋 I'm Vishwas M
 
-🎓 MCA Student  
-💻 Frontend Developer Intern  
-🚀 Interested in AI, Web Development and System Design  
+🎓 MCA Student @ NIE Mysore.  
+💻 Frontend Developer Intern @ Unified Mentor PVT LTD.
+    And Python fulstack Intern @ Mindset PVT LTD.
+🚀 Interested in AI, Web Development and System Design.
 
 ---
 
-🔭 Currently Working On
+## 🔭 Currently Working On
 - Frontend Development
 - AI Projects
 - Full Stack Applications
 
 ---
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 - System Design
 - Agentic AI
 - Advanced JavaScript
 
 ---
 
-📂 My Projects
+## 📂 My Projects
 Check out my projects here:  
 👉 https://github.com/Vishwasm485
 
 ---
 
-📫 Contact Me
+## 📫 Contact Me
 Email: vishwasm485@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vishwas-m-31685a308)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Vishwasm485)
 ---
-🛠 Languages and Tools
+## 🛠 Languages and Tools
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,angularjs,AI/ML,msoffice,powerbi,react,nodejs,express,django,flask,fastapi,flutter,mysql,postgres,mongodb,git,github,docker,aws,firebase,vercel,netlify,postman,arduino&perline=10" />
 </p>
@@ -39,7 +40,7 @@ Email: vishwasm485@gmail.com
 ---
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Vishwasm485)
 ---
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishwasm485&show_icons=true&theme=radical)
 
