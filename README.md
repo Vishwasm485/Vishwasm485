@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi 👋 I'm Vishwas M
 
-<!--
-**Vishwasm485/Vishwasm485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student  
+💻 Frontend Developer Intern  
+🚀 Interested in AI, Web Development and System Design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently Working On
+- Frontend Development
+- AI Projects
+- Full Stack Applications
+
+🌱 Currently Learning
+- System Design
+- Agentic AI
+- Advanced JavaScript
+
+📂 My Projects
+Check out my projects here:  
+👉 https://github.com/Vishwasm485
+
+📫 Contact Me
+Email: vishwasm485@gmail.com  
+LinkedIn: http://www.linkedin.com/in/vishwas-m-31685a308  
+
+---
+🛠 Languages and Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,django,flask,fastapi,flutter,mysql,postgres,mongodb,git,github,docker,aws,firebase,vercel,netlify,postman,arduino&perline=10" />
+</p>
+
+---
+📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishwasm485&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwasm485&layout=compact)
