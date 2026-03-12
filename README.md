@@ -34,46 +34,23 @@ Email: vishwasm485@gmail.com
 ---
 ## 🚀 Galaxy Attack: Destroy My GitHub Contributions
 
-Ever wondered what would happen if you could **fight your own commit history**?
+An arcade-style mini game where my GitHub contribution graph becomes the enemy grid.
 
-I built a small arcade-style game where my GitHub contribution graph becomes the enemy grid.
-A spaceship patrols the galaxy and fires lasers to destroy the contribution squares.
+### 🎮 Play the Game
+[▶ Play Galaxy Attack](https://vishwasm485.github.io/github-galaxy-attack)
 
-### 🎮 How it works
+### 📸 Game Preview
 
-* 🟩 Each square represents a **GitHub contribution**
-* 🚀 You control a **spaceship**
-* 🔫 Shoot bullets to destroy the squares
-* 💥 Each hit triggers an **explosion**
-* 🎯 Your **score increases** as commits disappear
+![Galaxy Attack Preview](./preview.gif)
 
-### 🕹 Controls
+### 🎮 Controls
+- ⬅️ ➡️ Arrow Keys → Move spaceship  
+- ␣ Space → Shoot bullets  
 
-* **← → Arrow keys** → Move the spaceship
-* **Spacebar** → Shoot
-
-### ▶ Play the Game
-
-Try destroying my contribution history here:
-
-[🚀 Play Galaxy Attack](https://vishwasm485.github.io/github-galaxy-attack)
-
-### 📸 Preview
-
-![Game Preview](./assets/github_galaxy_attack_demo.gif)
-
-### 🛠 Tech Used
-
-* HTML5 Canvas
-* JavaScript
-* GitHub Pages
-* Pixel sprites
-
-### 🌌 Why I built this
-
-I wanted to create something fun and interactive for my GitHub profile instead of just listing projects.
-This mini-game turns the contribution chart into a playable arcade experience.
-
+### 🛠 Built With
+- HTML5 Canvas  
+- JavaScript  
+- GitHub Pages
 ---
 
 ⭐ If you enjoyed it, feel free to star the repository!
